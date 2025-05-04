@@ -9,7 +9,7 @@
 
 1. **Гайд по работе с платформой Eclipse**  
    - [Обзор платформы](docs/platform/overview.md) ✅  
-   - [Начало работы](docs/platform/getting-started.md) ✅  
+   - [Начало работы](docs/platform/getting-started.md) ⏳  
    - [Основные понятия](docs/platform/concepts.md) ⏳  
      - [Workbench](docs/platform/concepts/workbench.md) ⏳  
      - [Перспективы](docs/platform/concepts/perspective.md) ⏳  
