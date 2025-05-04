@@ -1,0 +1,8 @@
+site_name: Eclipse на русском
+theme: mkdocs-material
+docs_dir: docs
+site_dir: site
+nav:
+  - Главная: index.md
+  - "Eclipse Platform User Guide":
+      - "Workbench": platform/concepts/workbench-intro.md
